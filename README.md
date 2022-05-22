@@ -1,7 +1,7 @@
 # Case_study_of_KT_corporation
 KT WISET Mentoring using AIFB Text, Python AI Modeling practice
 
-KT AIFB(AI Fundamentals for Business)는 기업 실무에서 필요한 데이터 처리 및 인공지능 모델링 역량을 평가하는 자격인증 시험
+KT AIFB(AI Fundamentals for Business)는 기업 실무에서 필요한 데이터 처리 및 인공지능 모델링 역량을 평가하는 자격인증 시험<br>
 Baic, Associate, Professional 3개 Track으로 구성
 
 Basic : 실무에서 가장 많이 쓰는 Tabular 데이터에 대해 코딩 없이 GUI 기반으로 데이터 분석/모델링<br>
